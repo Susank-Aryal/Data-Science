@@ -2,7 +2,7 @@
 ## Note
 ### I am sorry that github dont support Plotly plots so please check out the link below to see the interactive plots shown in the project
 ## Link :
-https://nbviewer.jupyter.org/github/Susank-Aryal/World-Forest-Area-South-and-East-Asia-CO2-Emission-comparison/blob/master/World%20Forest%20Area%20%26%20South%20and%20East%20Asia%20CO2%20Emission%20comparison.ipynb#
+https://nbviewer.jupyter.org/github/Susank-Aryal/Data-Science/blob/master/World-Forest-Area-South-and-East-Asia-CO2-Emission-comparison-master/World%20Forest%20Area%20%26%20South%20and%20East%20Asia%20CO2%20Emission%20comparison.ipynb
 
 
 ## Data Sets 
