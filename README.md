@@ -17,7 +17,7 @@
 
 ![Self Project](https://user-images.githubusercontent.com/66167662/94291309-2da3ef00-ff7b-11ea-9eb7-f9c13b3a8709.PNG)
 
-# World-Forest-Area-South-and-East-Asia-CO2-Emission-Comparison
+# World Forest Area South and East Asia CO2 Emission Comparison
 
 ## Objectives
 
